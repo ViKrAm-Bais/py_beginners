@@ -42,6 +42,7 @@ File Name | Description
 [simple_quiz.py](https://github.com/lakshya125/py_beginners/blob/main/simple_quiz.py) | A simple quiz
 [Quicksort.py](https://github.com/lakshya125/py_beginners/blob/main/Quicksort.py) | Quicksort algorithm implementation
 [insertion_sort.py](https://github.com/ashutosh007865/py_beginners/blob/main/insertion_sort.py)| Insertion sort algorithm using python
+[AdditonOfDigitsOfAGivenNumber.py](https://github.com/lakshya125/py_beginners/blob/main/AdditonOfDigitsOfAGivenNumber.py)| Addition of given digits till a number
 
 ## For Contributors
 
