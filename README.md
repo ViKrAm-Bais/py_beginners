@@ -43,8 +43,12 @@ File Name | Description
 [Quicksort.py](https://github.com/lakshya125/py_beginners/blob/main/Quicksort.py) | Quicksort algorithm implementation
 [insertion_sort.py](https://github.com/ashutosh007865/py_beginners/blob/main/insertion_sort.py)| Insertion sort algorithm using python
 [AdditonOfDigitsOfAGivenNumber.py](https://github.com/lakshya125/py_beginners/blob/main/AdditonOfDigitsOfAGivenNumber.py)| Addition of given digits till a number
-
-## For Contributors
+[Rearrange_Digits_Into_Largest_Possible_Value.py](https://github.com/lakshya125/py_beginners/blob/main/Rearrange_Digits_Into_Largest_Possible_Value)| Rearranging digit of number to make it largest 
+[RomanToInteger.py](https://github.com/lakshya125/py_beginners/blob/main/RomanToInteger.py)| Converitng roman number to integer
+[Seconds_to_Minutes.py](https://github.com/lakshya125/py_beginners/blob/main/Seconds_to_Minutes.py)| Converitng second to minutes
+[Tic Tac Toe Game.py](https://github.com/lakshya125/py_beginners/blob/main/Tic%20Tac%20Toe%20Game.py)| Code for tic tac toe game
+[YouTube video downloader.py](https://github.com/lakshya125/py_beginners/blob/main/YouTube%20video%20downloader.py)| Code for youtube video downloader
+[alarm_clock.py](https://github.com/lakshya125/py_beginners/blob/main/alarm_clock.py)| Code for an alarm clock
 
 1. All code is in python.
 2. No project should have a library.
